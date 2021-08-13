@@ -1,3 +1,6 @@
 Pizza
 Fries
 Chaat
+Avengers
+Joker
+Terminal
